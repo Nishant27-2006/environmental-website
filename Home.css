@@ -1,0 +1,52 @@
+.climate-change-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+  }
+  
+  
+  .climate-change-description h2 {
+    margin-bottom: 10px;
+  }
+  
+  .climate-change-section h1 {
+    font-size: 1em;
+    line-height: 1.6; /* Spacing between lines */
+    margin-bottom: 1em;
+    font-family: 'Exo 2', sans-serif; /* Spacing after paragraphs */
+  }
+  
+  .climate-change-section p {
+    font-size: 2em;
+    line-height: 1.6; /* Spacing between lines */
+    margin-bottom: 1em;
+    font-family: 'Exo 2', sans-serif; /* Spacing after paragraphs */
+  }
+  .boat-video-container{
+    height: 200% !important;
+  }
+  .climate-change-info h2 {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 24px; /* Adjust the size as needed */
+    font-weight: bold;
+    color: #333333; /* This is a dark grey, change as you like */
+    margin-bottom: 16px; /* Adds space below the title */
+  }
+  
+  .climate-change-info p {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 16px; /* Adjust the size as needed */
+    line-height: 1.6; /* This makes the text easier to read */
+    color: #666666; /* A lighter grey, change as you like */
+    margin-bottom: 16px; /* Adds space below the paragraph */
+  }
+  .climate-change-info {
+    font-family: 'Exo 2', sans-serif;
+    background-color: #ccffcc; /* Light green color */
+    padding: 20px; /* Adds some spacing inside the div */
+    border-radius: 8px; /* Optional: adds rounded corners */
+    /* Other styles as needed */
+  }
+  

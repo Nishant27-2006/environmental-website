@@ -1,0 +1,36 @@
+/* CO2EstimatePage.css */
+.epaInfoContainer {
+    background-color: #ccffcc; /* Light green color */
+    margin-top: 160px;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    font-family: 'Exo 2', sans-serif;
+  }
+  
+  .epaInfoContainer h1 {
+    color: #4a7c59;
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+  }
+  
+  .epaInfoContainer h2 {
+    color: #3b5a45;
+    font-size: 2em;
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+    font-family: 'Exo 2', sans-serif;
+  }
+  
+  .epaInfoContainer p {
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 1em;
+    font-family: 'Exo 2', sans-serif;
+  }
+  

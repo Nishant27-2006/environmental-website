@@ -1,0 +1,47 @@
+.calculateCO2Container {
+    font-family: 'Lato', sans-serif; /* Unique font */
+    max-width: 800px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    background-color: #348035; /* Green background */
+    color: #fff; /* White text for better contrast */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .calculateCO2Container h1 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: 700; /* Bold font for the heading */
+  }
+  
+  .calculateCO2Container p {
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+  
+  .inputSection label, .inputSection input {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  .inputSection input {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ddd; /* Subtle border for input fields */
+    background-color: #fff; /* White background for input fields */
+    color: #333; /* Darker text for readability */
+  }
+  
+  .resultsSection {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  /* Additional styling and responsiveness */
+  

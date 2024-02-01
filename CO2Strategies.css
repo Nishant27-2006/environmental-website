@@ -1,0 +1,41 @@
+.co2StrategiesContainer {
+    background-color: #ccffcc; /* Light green color */
+    font-family: 'Exo 2', sans-serif;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .co2StrategiesContainer h1 {
+    color: #1b5e20;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .co2StrategiesContainer h2, .co2StrategiesContainer h3 {
+    color: #2e7d32;
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  .strategySection h2 {
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
+  
+  .strategySection ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .strategySection li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Additional styles for lists, links, or other elements can be added here */
+  
